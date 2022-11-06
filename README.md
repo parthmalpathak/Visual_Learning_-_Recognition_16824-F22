@@ -1,1 +1,1 @@
-# Visual_Learning_-_Recognition_16824-F22
+Homework for Visual Learning and Recognition- 16824 (Carnegie Mellon University) 
