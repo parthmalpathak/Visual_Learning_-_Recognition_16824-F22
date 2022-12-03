@@ -7,3 +7,7 @@ Please find the link to the set up [here](https://github.com/visual-learning/obj
 
 ## Homework 2: GAN VAE
 Please find the link to the set up [here](https://github.com/visual-learning/generative-modeling)
+
+
+## Homework 3: VQA
+Please find the link to the set up [here](https://github.com/visual-learning/vqa)
